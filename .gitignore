@@ -1,0 +1,20 @@
+### JetBrains template
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff:
+.idea
+
+## File-based project format:
+*.iws
+
+## General System Files
+.DS_Store
+Thumbs.db
+log.txt
+npm-debug.log
+yarn-error.log
+
+## General Folders
+/node_modules
+/build
